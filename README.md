@@ -50,4 +50,4 @@ The two ADC input pins AIN/NP15, AIN/NP16 are protected against overvoltage cond
 
 ### Notes for users
 Note: V1 of this board has a fault so **PIO26 [FPGA PIN: R3] is not connected**. This is to be fixed in a future revision.
-
+The problem can be fixed with a jumper wire for now.
