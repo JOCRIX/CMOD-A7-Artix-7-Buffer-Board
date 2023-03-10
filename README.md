@@ -7,12 +7,12 @@ on the Digilent CMOD A7 FPGA board. (Mfr: 410-328-35, Mouser.com nr:424-410-328-
 
 ## **How it works**
 The board uses TXB0108 bidirectional and auto-direction sensing buffers to buffer all the I/O pins. Each pin
-has a maximum I/O current og 50mA and a package total of 100mA per buffer IC. The purpose of the board is
-that drivers will fail before the FPGA does, that is OK. The FPGA is connected to the buffers through
+has a maximum I/O current of 50mA and a package total of 100mA per buffer IC. The purpose of the board is 
+that the drivers will fail before the FPGA does, that is OK. The FPGA is connected to the buffers through
 330 ohm resistors, so, if the buffers fail in a spectacular way the FPGA output current is limited to stay
 within specification of the Artix 7 35T FPGA.
 
-The rise and fall times of the output of the buffer board has been tested and both rise and fall times are < 5 nS.
+The rise and fall times of the output of the buffer board has been tested and both rise and fall times are 4 < t < 5 [nS].
 
 The two ADC input pins AIN/NP15, AIN/NP16 are protected against overvoltage conditions with diodes.
 
