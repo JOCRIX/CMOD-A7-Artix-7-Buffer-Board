@@ -52,3 +52,6 @@ The two ADC input pins AIN/NP15, AIN/NP16 are protected against overvoltage cond
 ### Notes for users
 V1 of this board has a fault so **PIO26 [FPGA PIN: R3] is not connected**. This is to be fixed in a future revision.
 The problem can be fixed with a jumper wire for now. (Or just edit the .sch but w/e :)).
+
+The green trace shows the connection that should be made for R3 to work. Easily fixed in either case..
+![](https://github.com/JOCRIX/CMOD-A7-Artix-7-Buffer-Board/blob/main/Images/CMOD-Isolator-error.svg)
