@@ -1,6 +1,5 @@
 # **Buffer Board for the CMOD A7 Artix 7 family of FPGA development boards**
-
-![plot](./images/CMOD-Isolator2.svg)
+![](../master/images/CMOD-Isolator2.svg
 
 ## ØØPurpose of the projectØØ
 The development boards for these FPGA's, are costly and, sadly, a little fumbling around
@@ -45,8 +44,9 @@ The two ADC input pins AIN/NP15, AIN/NP16 are protected against overvoltage cond
 
 ## Hope you like Warhammer..
 
-![plot](./images/CMOD-Isolator.svg)
+![](../master/images/CMOD-Isolator.svg
 
 ### Notes for users
 Note: V1 of this board has a fault so **PIO26 [FPGA PIN: R3] is not connected**. This is to be fixed in a future revision.
 
+https://github.com/JOCRIX/CMOD-A7-Artix-7-Buffer-Board/blob/main/Images/CMOD-Isolator2.svg
