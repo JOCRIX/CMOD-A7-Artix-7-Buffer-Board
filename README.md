@@ -19,15 +19,25 @@ The two ADC input pins AIN/NP15, AIN/NP16 are protected against overvoltage cond
 ## **Requirements / BOM**
 
 1x CMOD A7 FPGA Board - https://www.mouser.dk/ProductDetail/Digilent/410-328-35?qs=iHX4uCgIbgPRh1v3D3f51A%3D%3D
+<br>
 6x TXB0108 [TSSOP20]
+<br>
 11x YC324, or similar, 330 ohm resistor array.
+<br>
 2x 24 Pin Female headers with 2.54mm pitch
+<br>
 2x 24 Pin Female/Male header with 2.54mm pitch
+<br>
 1x LD117S533TR [SOT223]
+<br>
 7x 100nF >6.3V [0805]
+<br>
 1x 0603 LED (Doesn't really matter but it looks cool!)
+<br>
 1x 560R [0805]
+<br>
 1x 10uF [0805]
+<br>
 4x BAT54 [SOD-123]
 
 ### Notes for users
