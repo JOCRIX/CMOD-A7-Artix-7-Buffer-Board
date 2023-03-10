@@ -2,8 +2,8 @@
 ![](https://github.com/JOCRIX/CMOD-A7-Artix-7-Buffer-Board/blob/main/Images/CMOD-Isolator2.svg)
 
 ## **Purpose of the project**
-The development boards for these FPGA's, are costly and, sadly, a little fumbling around
-could could claim it's life, so, the purpose of this project is to create a board that can buffer the I/O pins
+The development boards for these FPGA's are costly and, sadly, a little fumbling around
+could could easily claim it's life, so, the purpose of this project is to create a board that can buffer the I/O pins
 on the Digilent CMOD A7 FPGA board. (Mfr: 410-328-35, Mouser.com nr:424-410-328-35).
 
 All design files are for KiCad. Feel free to export the GERBERS and do w/e with it.
