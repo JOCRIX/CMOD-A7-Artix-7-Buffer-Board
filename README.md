@@ -6,6 +6,8 @@ The development boards for these FPGA's, are costly and, sadly, a little fumblin
 could could claim it's life, so, the purpose of this project is to create a board that can buffer the I/O pins
 on the Digilent CMOD A7 FPGA board. (Mfr: 410-328-35, Mouser.com nr:424-410-328-35).
 
+All design files are for KiCad. Feel free to export the GERBERS and do w/e with it.
+
 ## **How it works**
 The board uses TXB0108 bidirectional and auto-direction sensing buffers to buffer all the I/O pins. Each pin
 has a maximum I/O current of 50mA and a package total of 100mA per buffer IC. The purpose of the board is 
@@ -49,4 +51,3 @@ The two ADC input pins AIN/NP15, AIN/NP16 are protected against overvoltage cond
 ### Notes for users
 Note: V1 of this board has a fault so **PIO26 [FPGA PIN: R3] is not connected**. This is to be fixed in a future revision.
 
-https://github.com/JOCRIX/CMOD-A7-Artix-7-Buffer-Board/blob/main/Images/CMOD-Isolator2.svg
