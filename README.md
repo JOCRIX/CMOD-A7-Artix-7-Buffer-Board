@@ -1,5 +1,7 @@
 # **Buffer Board for the CMOD A7 Artix 7 family of FPGA development boards**
 
+![plot](./images/CMOD-Isolator2.svg)
+
 ## ØØPurpose of the projectØØ
 The development boards for these FPGA's, are costly and, sadly, a little fumbling around
 could could claim it's life, so, the purpose of this project is to create a board that can buffer the I/O pins
@@ -15,6 +17,7 @@ within specification of the Artix 7 35T FPGA.
 The rise and fall times of the output of the buffer board has been tested and both rise and fall times are 4 < t < 5 [nS].
 
 The two ADC input pins AIN/NP15, AIN/NP16 are protected against overvoltage conditions with diodes.
+
 
 ## **Requirements / BOM**
 
@@ -39,6 +42,10 @@ The two ADC input pins AIN/NP15, AIN/NP16 are protected against overvoltage cond
 1x 10uF [0805]
 <br>
 4x BAT54 [SOD-123]
+
+## Hope you like Warhammer..
+
+![plot](./images/CMOD-Isolator.svg)
 
 ### Notes for users
 Note: V1 of this board has a fault so **PIO26 [FPGA PIN: R3] is not connected**. This is to be fixed in a future revision.
