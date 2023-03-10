@@ -1,7 +1,7 @@
 # **Buffer Board for the CMOD A7 Artix 7 family of FPGA development boards**
 ![](https://github.com/JOCRIX/CMOD-A7-Artix-7-Buffer-Board/blob/main/Images/CMOD-Isolator2.svg)
 
-## ØØPurpose of the projectØØ
+## **Purpose of the project**
 The development boards for these FPGA's, are costly and, sadly, a little fumbling around
 could could claim it's life, so, the purpose of this project is to create a board that can buffer the I/O pins
 on the Digilent CMOD A7 FPGA board. (Mfr: 410-328-35, Mouser.com nr:424-410-328-35).
