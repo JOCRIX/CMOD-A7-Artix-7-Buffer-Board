@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "JRIX Bitmap Images Footprints")(type "KiCad")(uri "${KIPRJMOD}/Component Libraries/Footprints/JRIX Bitmap Images Footprints.pretty")(options "")(descr ""))
+  (lib (name "JRIX FPGA Footprints")(type "KiCad")(uri "${KIPRJMOD}/Component Libraries/Footprints/JRIX FPGA Footprints.pretty")(options "")(descr ""))
+  (lib (name "JRIX Resistor Array Footprints")(type "KiCad")(uri "${KIPRJMOD}/Component Libraries/Footprints/JRIX Resistor Array Footprints.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "JRIX FPGA")(type "KiCad")(uri "${KIPRJMOD}/Component Libraries/Schematic Symbols/JRIX FPGA.kicad_sym")(options "")(descr ""))
+  (lib (name "JRIX Level Translator")(type "KiCad")(uri "${KIPRJMOD}/Component Libraries/Schematic Symbols/JRIX Level Translator.kicad_sym")(options "")(descr ""))
+  (lib (name "JRIX Resistor Array")(type "KiCad")(uri "${KIPRJMOD}/Component Libraries/Schematic Symbols/JRIX Resistor Array.kicad_sym")(options "")(descr ""))
+)
