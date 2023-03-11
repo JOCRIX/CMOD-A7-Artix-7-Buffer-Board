@@ -271,6 +271,9 @@
     (path "/de84fc28-2d04-471d-87e5-1f41a65ccc70/03d7a53c-c884-45fc-bbff-76c7ed244246"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/4f6fdfdb-50bd-48ce-b48b-29fd90d045f2/03de6b41-b8af-4d09-86af-085ed46c6045"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/4f6fdfdb-50bd-48ce-b48b-29fd90d045f2/05fb8650-0dba-42b8-b1d3-c29286452460"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -391,6 +394,9 @@
     (path "/4f6fdfdb-50bd-48ce-b48b-29fd90d045f2/e098c85e-2b32-44fc-a586-4ef3173e4cad"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/4f6fdfdb-50bd-48ce-b48b-29fd90d045f2/e8a62281-834a-4c67-83f0-c07eebd3cb4a"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/4f6fdfdb-50bd-48ce-b48b-29fd90d045f2/e9f904e2-605f-4da3-b432-af33b3d73797"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -478,8 +484,14 @@
     (path "/de84fc28-2d04-471d-87e5-1f41a65ccc70/e8e2eb95-cb7c-4d59-866f-ae48e1371332"
       (reference "D?") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")
     )
+    (path "/4f6fdfdb-50bd-48ce-b48b-29fd90d045f2/029a3211-46c8-41c2-a49d-dde3e95b611b"
+      (reference "J?") (unit 1) (value "Conn_01x06") (footprint "")
+    )
     (path "/4f6fdfdb-50bd-48ce-b48b-29fd90d045f2/6d87a68a-976c-4b68-88d1-52156f61f1ba"
       (reference "J?") (unit 1) (value "Conn_01x24") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x24_P2.54mm_Vertical")
+    )
+    (path "/4f6fdfdb-50bd-48ce-b48b-29fd90d045f2/7299c849-7bd5-44db-8b0d-07dfbbae76d8"
+      (reference "J?") (unit 1) (value "Conn_01x06") (footprint "")
     )
     (path "/4f6fdfdb-50bd-48ce-b48b-29fd90d045f2/f89db6f8-08e4-4261-b82c-b5830a70337f"
       (reference "J?") (unit 1) (value "Conn_01x24") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x24_P2.54mm_Vertical")
