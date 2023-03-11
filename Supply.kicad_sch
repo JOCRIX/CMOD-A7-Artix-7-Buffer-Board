@@ -2004,8 +2004,8 @@
     (pin "7" (uuid 330168ea-017e-4005-a020-a8be321891ef))
     (pin "8" (uuid cab473ce-d4df-4a08-9f4a-1a6449ebedf3))
     (pin "EPAD" (uuid 194bfeb8-1095-46c5-8396-4336ce7e8c6c))
-    (pin "NC" (uuid 10e9853a-2e1f-4043-ba1f-df75558498b5))
-    (pin "NC" (uuid 10e9853a-2e1f-4043-ba1f-df75558498b5))
+    (pin "NC" (uuid 10e9853a-2e1f-4043-ba1f-df75558498b6))
+    (pin "NC" (uuid 10e9853a-2e1f-4043-ba1f-df75558498b6))
   )
 
   (symbol (lib_id "Device:R_Small") (at 106.68 48.26 0) (unit 1)
@@ -2129,8 +2129,8 @@
     (pin "7" (uuid fb321a30-b5df-4f84-8f0e-8f57af3a85da))
     (pin "8" (uuid bee6f121-ff5b-4173-bcda-eae61e2a443e))
     (pin "EPAD" (uuid 02f609b3-1759-467c-adcf-dda3758e4335))
-    (pin "NC" (uuid 5a3d4bc1-690f-4cad-81c0-fafc09f491eb))
-    (pin "NC" (uuid 5a3d4bc1-690f-4cad-81c0-fafc09f491eb))
+    (pin "NC" (uuid 5a3d4bc1-690f-4cad-81c0-fafc09f491ec))
+    (pin "NC" (uuid 5a3d4bc1-690f-4cad-81c0-fafc09f491ec))
   )
 
   (symbol (lib_id "Device:R_Small") (at 38.735 50.165 180) (unit 1)
