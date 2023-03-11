@@ -5731,6 +5731,25 @@
     (pin "1" (uuid 31f7e482-0da0-4b94-b1fb-a08ecdd3c009))
   )
 
+  (symbol (lib_id "Device:D_Schottky") (at 146.685 41.91 270) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid 7d118989-8d72-41d5-912e-d242ec0b54a4)
+    (property "Reference" "D?" (id 0) (at 149.86 40.3224 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "D_Schottky" (id 1) (at 149.86 42.8624 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Diode_SMD:D_SOD-123" (id 2) (at 146.685 41.91 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 146.685 41.91 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 2245b94f-7478-4965-baf2-2dc5d6bf0eb9))
+    (pin "2" (uuid 38e3adae-4a4f-4f95-93cf-52a10275329e))
+  )
+
   (symbol (lib_id "Device:C_Small") (at 118.11 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7d51bcfa-3d79-4869-ada9-3963c64d791f)
@@ -6533,6 +6552,9 @@
     )
     (path "/c4ca03fa-94bd-49df-b6a0-1e3c636f7ca6"
       (reference "D5") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")
+    )
+    (path "/7d118989-8d72-41d5-912e-d242ec0b54a4"
+      (reference "D?") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/e69e1a2f-80a8-4128-bfcd-b34abab4e68c"
       (reference "J1") (unit 1) (value "Conn_01x24") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x24_P2.54mm_Vertical")
