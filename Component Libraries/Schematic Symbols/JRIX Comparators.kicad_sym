@@ -252,6 +252,10 @@
         (name "VEE" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
       )
+      (pin no_connect line (at 5.08 -7.62 90) (length 2.54) hide
+        (name "NC" (effects (font (size 1.27 1.27))))
+        (number "2" (effects (font (size 1.27 1.27))))
+      )
       (pin power_in line (at -3.81 -2.54 0) (length 3.81)
         (name "VCC" (effects (font (size 1.27 1.27))))
         (number "5" (effects (font (size 1.27 1.27))))
